@@ -6,3 +6,6 @@
 *.ear
 
 .idea/*
+/Servlet-Example/nbproject/private/
+/Servlet-Example/build/
+/Servlet-Example/dist/
